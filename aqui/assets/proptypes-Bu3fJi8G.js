@@ -1,1 +1,0 @@
-import{P as e}from"./componentUtils-jcBGDFZy.js";const s=e.oneOfType([e.func,e.string,e.node,e.element,e.shape({render:e.func.isRequired})]),p=e.oneOfType([e.func,e.shape({current:e.instanceOf(Element)})]);export{p as a,s as i};
