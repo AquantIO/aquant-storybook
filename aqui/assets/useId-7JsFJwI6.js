@@ -1,0 +1,1 @@
+import{V as l,r as u}from"./iframe-chqmMZez.js";let n=0;function c(t){const[e,o]=u.useState(t),a=t||e;return u.useEffect(()=>{e==null&&(n+=1,o(`mui-${n}`))},[e]),a}const s=l.useId;function r(t){if(s!==void 0){const e=s();return t??e}return c(t)}export{r as u};
